@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main () {
+    int a = 10;
+    int b = 5;
+    int product = a * b;
+    int div = a / b;
+    printf("%d\n", product);
+    printf("%d\n", div);
+    return 0;
+}
