@@ -5,4 +5,5 @@ int main() {
     int sub = a - b;
     printf("%d", sub);
     return 0;
+
 }
