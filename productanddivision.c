@@ -4,7 +4,8 @@ int main () {
     int b = 5;
     int product = a * b;
     int div = a / b;
-    printf("%d\n", product);
-    printf("%d\n", div);
+    printf("%d\n", product); //Multiplication
+    printf("%d\n", div); //Division
     return 0;
+
 }
